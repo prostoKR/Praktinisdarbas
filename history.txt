@@ -1,0 +1,500 @@
+   73  git pull
+   74  git push
+   75  git push origin main
+   76  git push origin antra
+   77  git pull git@github.com:prostoKR/darbas_kartu.git
+   78  git branch
+   79  git swich main
+   80  git switch main
+   81  git branch
+   82  git switch antra
+   83  git log
+   84  git branch
+   85  git log --oneline --graph
+   86  git add .
+   87  git add .
+   88  git commit -m "prideta i html"
+   89  git push origin antra
+   90  git clone git@github.com:prostoKR/darbas_kartu.git
+   91  git pull
+   92  git pull
+   93  GIT STATUS
+   94  git pull
+   95  git branch
+   96  git switsh main
+   97  git switch main
+   98  git pull
+   99  git push origin main
+  100  git comment
+  101  git commit -m "pridetas vardas"
+  102  git add .
+  103  git commit -m "pridetas vardas"
+  104  git push origin main
+  105  git config --global --list
+  106  git config core.editor notepad
+  107  git config --global --list
+  108  echo 1.txt
+  109  1.txt
+  110  git add .
+  111  git branch
+  112  git switch antra
+  113  git branch
+  114  git swisch main
+  115  git switch main
+  116  git checkout
+  117  gir switch antra
+  118  git switch antra
+  119  git checkout
+  120  git branch "trecia antroje"
+  121  git branch trecia_antroje
+  122  gir branch
+  123  git branch
+  124  git tree
+  125  git status
+  126  git switch main
+  127  git branch trecia
+  128  git status
+  129  git branch
+  130  git switch trecia
+  131  git add .
+  132  git commit -m "redaguotas failas antrasKtxt"
+  133  git add .
+  134  git commit -m "redaguotas failas antrasKtxt"
+  135  git push origin trecia
+  136  git clone https://github.com/Juozasxlr/Biudzetas.git
+  137  git switch -c testas
+  138  git init
+  139  git switch -c testas
+  140  git add .
+  141  git commit -m css redakcija
+  142  git commit -m "css redakcija"
+  143  git push origin testas
+  144  git clone https://github.com/Juozasxlr/Biudzetas.githttps://github.com/Juozasxlr/Biudzetas.git
+  145  git clone git@github.com:Juozasxlr/Biudzetas.git
+  146  cd ..
+  147  cd Biudzetas
+  148  git switch -c test
+  149  cd Biudzetas
+  150  git switch -c testas
+  151  git add .
+  152  git commit -m "css pakitimas"
+  153  git commit log
+  154  git log
+  155  it gi`qq
+  156  cd
+  157  git
+  158  q
+  159  q
+  160  git push origin testas
+  161  git push origin testas
+  162  history
+  163  history > 1.log
+  164  git switch to main
+  165  git switch main
+  166  git pull 
+  167  git switch footer
+  168  git switch main
+  169  git pull
+  170  git switch footer
+  171  git log --oneline
+  172  git log --oneline --all --graph
+  173  git switch main
+  174  ls
+  175  ls
+  176  cd
+  177  sudo su
+  178  command ?
+  179  ?:
+  180  ?/
+  181  bash ?/
+  182  help
+  183  resolvectl
+  184  resolve
+  185  man
+  186  help
+  187  /? main
+  188  ?/
+  189  help
+  190  git ?
+  191  git --help
+  192  git tree
+  193  git mktree
+  194  git -a
+  195  git --version 
+  196  git -C
+  197  git --info
+  198  git pull
+  199  git status
+  200  git branch logo
+  201  git branch
+  202  git tree
+  203  git switch logo
+  204  git status
+  205  git switch main
+  206  git status
+  207  git sta
+  208  git status
+  209  git pull
+  210  git log -- oneline --graph
+  211  git clone git@github.com:Juozasxlr/Biudzetas.git
+  212  git clone git@github.com:Juozasxlr/Biudzetas.git
+  213  git switch -c logo
+  214  git status
+  215  cd dir
+  216  ls
+  217  cd/biudzetas
+  218  ls
+  219  cd/Biudzetas
+  220  git status
+  221  git log
+  222  git switch -c logotipas
+  223  git add.
+  224  git add .
+  225  git add .
+  226  git commit -m "Pridetas logotipas"
+  227  git log
+  228  git checkout main
+  229  git status
+  230  git checkout logotipas
+  231  git status
+  232  git log
+  233  git push origin logotipas
+  234  git checkout main
+  235  git pull origin main
+  236  git switch -c logotipas_debug
+  237  git add . 
+  238  git commit -m "logotipo talpinimo korekcija"
+  239  git pull origin main
+  240  git checkout main
+  241  git status
+  242  git diff
+  243  git switch logotipas_debug
+  244  git push origin logotipas_debug
+  245  git switch main
+  246  git pull origin main
+  247  run
+  248  git pull origin main
+  249  git switch -c logotipo_korekcija
+  250  git add .
+  251  git commit -m "logotipo kelio korecija"
+  252  git push origin logotipo_korekcija 
+  253  git clone -b lesson-20 https://github.com/iamshaunjp/Complete-React-Tutorial.git
+  254  git clone gh repo clone iamshaunjp/Complete-React-Tutorial
+  255  gh repo clone iamshaunjp/Complete-React-Tutorial
+  256  git init
+  257  git clone https://github.com/iamshaunjp/Complete-React-Tutorial.git
+  258  vim
+  259  #!C:\Program Files\Git\git-bash.exe
+  260  echo "Hello World"
+  261  #!C:\Program Files\Git\git-bash.exe
+  262  echo "Hello World"
+  263  #!C:\Program Files\Git\git-bash.exe
+  264  echo "Hello World"
+  265  #!C:\Program Files\Git\git-bash.exe
+  266  echo "Hello World"
+  267  git status
+  268  git add .
+  269  git status
+  270  git commit -m "git sample comand file add"
+  271  git status
+  272  git switch -c gitControlWork
+  273  touch 22.txt
+  274  git add .
+  275  git status
+  276  22.txt
+  277  code 22.txt
+  278  git log
+  279  git diff
+  280  git checkout
+  281  git clone git@github.com:kitas-gitas/git-praktinis-restore-reset.git
+  282  git log
+  283  git log
+  284  git diff
+  285  cd git-praktinis-restore-reset/
+  286  git log
+  287  git log
+  288  git --version
+  289  git diff
+  290  git log--oneLine
+  291  git log --oneLine
+  292  git log --graph --oneline
+  293  git log --oneline
+  294  git checkout 485a339
+  295  git checkout master
+  296  git log --graph --oneline
+  297  git checkout 485a339
+  298  git log --graph --oneline
+  299  git checkout master
+  300  git log --graph --oneline
+  301  git checkout cdd927c
+  302  git checkout master
+  303  git log --graph --oneline
+  304  git log --online
+  305  git log --oneline
+  306  git checkout cdd927c
+  307  git cwitch -c scrambled-eggs
+  308  git chackout master
+  309  git switch -c scrambled-eggs
+  310  gir switch master
+  311  git checkout master
+  312  git log --graph --oneline
+  313  git checkout f199959
+  314  git log
+  315  git log --oneline
+  316  git checkout cdd927c
+  317  git checkout 9518e20
+  318  git log --oneline
+  319  git switch master
+  320  git checkout cdd927c
+  321  git switch scrambled-eggs 
+  322  git add
+  323  git add .
+  324  git commit -m "atnaujintas delete"
+  325  git log --oneline
+  326  git checkout 9518e20
+  327  git log --oneline
+  328  git switch master
+  329  git log
+  330  git log --oneline
+  331  git restore .
+  332  git log --oneline
+  333  git checkout cdd927c
+  334  git log --oneline
+  335  git checkout HEAD
+  336  git log --oneline
+  337  git checkout master
+  338  git log --
+  339  git log --oneline
+  340  git checkout HEAD
+  341  gti shortlog
+  342  git shortlog
+  343  git log --graph --oneline
+  344  git checkout cdd927c
+  345  git log oneline
+  346  git switch master
+  347  git log --oneline
+  348  git log
+  349  git log --oneline
+  350  git checkout 8e3111c
+  351  got log --oneline
+  352  git switch master
+  353  gti log --oneline
+  354  git log --oneline
+  355  git checkout HEAD lyrics.txt
+  356  git restore lyrics.txt
+  357  git restore .
+  358  git clean -fd
+  359  git restore --stage lyrics.txt
+  360  git reset --soft HEAD~4
+  361  git log --oneline
+  362  git revert HEAD~4
+  363  git revert cdd927c
+  364  git clone git@github.com:kitas-gitas/git-praktinis-restore-reset.git
+  365  git log --oneline
+  366  gir log
+  367  git log
+  368  git log --oneline
+  369  git clone git@github.com:kitas-gitas/git-praktinis-restore-reset.git
+  370  git init
+  371  touch studentai.dat
+  372  ./studentai.dat
+  373  nano studentai.dat
+  374  git add .
+  375  git log 
+  376  git add .
+  377  git commit -m "Vardas pavarde"
+  378  git log
+  379  cd ..
+  380  crdir learn_git
+  381  mkdir learn_git
+  382  cd learn_git/
+  383  echo >> first.txt
+  384  git init
+  385  git add first.txt 
+  386  git commit -m "adding firsta.txt
+  387  git commit -m "adding firsta.txt"
+  388  q
+  389  exit
+  390  `
+  391  git add.
+  392  git log
+  393  git log --online
+  394  git commit -m "adding first"
+  395  git log
+  396  echo >>second.txt
+  397  git add second.txt 
+  398  git commit -m "add second.txt"
+  399  git log
+  400  git rm first.txt 
+  401  git add .
+  402  git commit -m "removing first.txt"
+  403  git log
+  404  git log --oneline
+  405  git config --global
+  406  git status
+  407  git log --oneline
+  408  git checkout 485a339
+  409  git log --onlenie
+  410  git log --oneline
+  411  git switch master
+  412  git log --oneline
+  413  git checkout cdd927c
+  414  git switch -c scrambled-eggs
+  415  git switch master
+  416  git log --oneline
+  417  git log --oneline
+  418  git restore HEAD~1
+  419  git restore HEAD~1 lyrics.txt
+  420  git remote add origin https://github.com/prostoKR/Repas.git
+  421  git status
+  422  git log
+  423  git origin push
+  424  git pull
+  425  git brunch -vv
+  426  git brunch -v
+  427  git branch -vv
+  428  git push --set-pstream origin  master
+  429  git push --set-upstream origin  master
+  430  git clone git@github.com:prostoKR/prosto.git
+  431  git status
+  432  cd prosto
+  433  code .
+  434  git init
+  435  echo >> studentas.txt
+  436  code .
+  437  git add .
+  438  git commit -m "failo studentas.txt sukurimas ir jo korekcija"
+  439  nano studentas.txt
+  440  git commit -m "pavardes pridejimas"
+  441  git add .
+  442  git commit -m "pavardes pridejimas"
+  443  echo >> logas.log
+  444  echo *.log>>.gitignore
+  445  git add .
+  446  git add .
+  447  git remote add origin git@github.com:prostoKR/PraktinisJP21.git
+  448  git branch JP21
+  449  switch JP21
+  450  git swith JP21
+  451  git switch JP21
+  452  nano studentas.txt 
+  453  nano studentas.txt 
+  454  git commit - m "grupes pridejimas"
+  455  git commit -m "grupes pridejimas"
+  456  git switch master
+  457  git add .
+  458  git log --oneline
+  459  git checkout f5722c8
+  460  git add .
+  461  git commit -m "Korekcija"
+  462  git checkout f5722c8
+  463  git log --oneline
+  464  git puch -u origin master
+  465  git push -u origin master
+  466  git log --oneline
+  467  git log --oneline
+  468  git checkout -b jp21
+  469  git switch jp21
+  470  git push -u origin jp21
+  471  git init
+  472  echo >> studentas.txt
+  473  code studentas.txt
+  474  git add .
+  475  git add .
+  476  git commit -m "sukurtas failas ir prideta pavarde"
+  477  echo Rubekin>>studentas.txt 
+  478  git commit -m "prideta pavarde"
+  479  git add .
+  480  git add .
+  481  git commit -m "prideta pavarde"
+  482  git log
+  483  git diff
+  484  touch >>logas.log
+  485  touch ->logas.log
+  486  git 
+  487  touch >>logas.log
+  488  git add .gitignore
+  489  git add .gitignore
+  490  git remote add origin https://github.com/prostoKR/PraktinisJP21.git
+  491  git remote add origin https://github.com/prostoKR/PraktinisJP21.git
+  492  git status
+  493  git push -u origin master
+  494  git pull
+  495  git log
+  496  git push -u origin master
+  497  git init 
+  498  touch ->studentas.txt
+  499  nano studentas.txt 
+  500  git add .
+  501  git add .
+  502  git commit -m "Vardo irasymas"
+  503  nano studentas.txt 
+  504  git add .
+  505  git add .
+  506  git commit -m "pavardes pridejimas"
+  507  git log --oneline
+  508  git log
+  509  touch -> logas.log
+  510  touch -> .gitignore
+  511  nano gitignore
+  512  nano .gitignore
+  513  git add .
+  514  git add .
+  515  git remote add origin https://github.com/prostoKR/Praktinisdarbas.git
+  516  git branch -M master
+  517  git push -u origin master$ git push -u origin master
+  518  git log
+  519  git log --oneline
+  520  git remote -vv
+  521  git push -u origin master
+  522  git push -u origin master
+  523  git switch -c jp21
+  524  nano studentas.txt 
+  525  git add .
+  526  git add .
+  527  git commit -m " grupes numerio pridejimas"
+  528  git switch master
+  529  echo Vilnius>>studentas.txt 
+  530  git switch jp21 
+  531  git log
+  532  git log --oneline
+  533  git log --grpah --oneline
+  534  git log --graph --oneline
+  535  git log
+  536  git add .
+  537  git add .
+  538  git diff
+  539  touch -> .gitignore
+  540  nano .gitignore
+  541  git add .
+  542  git add .
+  543  git commit -m "git .ignore failo pridejimas"
+  544  git push -u origin master
+  545  git merge
+  546  git push -u origin master
+  547  git pull
+  548  git push -u origin master
+  549  git merge
+  550  git add/rm studentas.txt
+  551  git add studentas.txt
+  552  git merge
+  553  git commit -m "failu sujungimas"
+  554  git push
+  555  git switch jp21
+  556  git merge
+  557  git merge master
+  558  nano studentas.txt 
+  559  git commit - m "konflikto fiksavimas"
+  560  git commit -m "konflikto fiksavimas"
+  561  git add .
+  562  git commit -m "konflikto fiksavimas"
+  563  git merge studentas.txt
+  564  git push origin jp21
+  565  git pull
+  566  switch master
+  567  git switch master
+  568  git pull
+  569  git switch jp21
+  570  git switch master
+  571  git add .
+  572  history>history.txt
